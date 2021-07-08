@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>sprint-01-ioc1</module>
+        <module>spring02-hellospring</module>
     </modules>
 
     <dependencies>
