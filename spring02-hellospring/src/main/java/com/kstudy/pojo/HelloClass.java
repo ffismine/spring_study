@@ -1,6 +1,6 @@
 package com.kstudy.pojo;
 
-public class Hello {
+public class HelloClass {
     private String str;
 
     public String getStr() {

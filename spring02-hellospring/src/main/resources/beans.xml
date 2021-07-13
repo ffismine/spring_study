@@ -5,7 +5,7 @@
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
 <!--使用spring来创建对象-->
-<bean id="hello" class="com.kstudy.pojo.Hello">
-      <property name="str" value="spring1"/>
+<bean id="helloClassname" class="com.kstudy.pojo.HelloClass">
+      <property name="str" value="这是我的第一个spring程序"/>
 </bean>
 </beans>
